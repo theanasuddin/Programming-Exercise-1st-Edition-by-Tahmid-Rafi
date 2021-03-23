@@ -2,7 +2,7 @@ package programmingExercise;
 
 import java.util.Scanner;
 
-public class Problem2_1 {
+public class Problem2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
